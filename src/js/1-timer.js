@@ -32,7 +32,7 @@ const options = {
         message: 'Please choose a date in the future',
         color: '#ef4040',
         titleSize: '40px',
-        titleColor: 'red',
+        titleColor: '#fff',
         messageSize: '20px',
         messageColor: '#fff',
         position : 'topRight'

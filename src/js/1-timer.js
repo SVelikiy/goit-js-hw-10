@@ -34,7 +34,8 @@ const options = {
         titleSize: '40px',
         titleColor: 'red',
         messageSize: '20px',
-        messageColor: 'red',
+        messageColor: '#fff',
+        position : 'topRight'
       });
     } else {
       userSelectedDate = selectDate;

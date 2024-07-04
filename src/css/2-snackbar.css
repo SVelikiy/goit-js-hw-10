@@ -1,0 +1,85 @@
+body {
+    font-family: "Montserrat", sans-serif;
+}
+
+section {
+  margin-bottom: 40px;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+}
+
+.input-num {
+font-family: "Montserrat", sans-serif;
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.04em;
+color: #2e2f42;
+width: 345px;
+height: 40px;
+margin-bottom: 16px;
+padding-left: 15px;
+}
+
+.label-input {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.04em;
+color: #2e2f42;
+}
+
+.label-radio {
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+color: #2e2f42;
+}
+
+legend {
+ font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.04em;
+color: #2e2f42;
+}
+
+fieldset {
+border-radius: 4px;
+stroke-width: 1px;
+stroke: #000;
+width: 360px;
+height: 64px;
+margin-bottom: 24px;
+padding: 0;
+}
+
+button {
+    font-family: "Montserrat", sans-serif;
+    border: none;
+border-radius: 8px;
+padding: 8px 16px;
+width: 360px;
+height: 40px;
+background: #4e75ff;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.04em;
+color: #fff;
+}
+
+.radio {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+}
+
+
+
